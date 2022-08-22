@@ -1,6 +1,6 @@
 # ruuvi-gateway_nrf-Python-Control
 
-Python Scripts for controlling the Ruuvi gateway based on the pca10040 baord
+Python Scripts for controlling the Ruuvi gateway based on the pca10040 board
 
 Required Firmware:
 Link: https://github.com/ruuvi/ruuvi.gateway_nrf.c
